@@ -1,0 +1,15 @@
+{
+	"name": "three.js-test",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"dev": "vite --host 127.0.0.1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"three": "^0.156.1",
+		"vite": "^4.4.9"
+	}
+}
